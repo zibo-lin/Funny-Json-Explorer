@@ -1,3 +1,5 @@
+测试样例：`test.json` 
+
 使用常规方法（不使用设计模式）实现FEJ 
 
 代码文件：`ordinary_cmd.py` 
