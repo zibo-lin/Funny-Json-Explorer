@@ -6,4 +6,8 @@
 
 使用设计模式（工厂方法）实现FEJ 
 
-代码文件：`factory_cmd.py`
+代码文件：`factory_cmd.py` 
+
+使用设计模式（迭代器+访问者）实现FEJ 
+
+代码文件：`iterator_cmd.py` 
